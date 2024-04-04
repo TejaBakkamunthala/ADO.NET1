@@ -1,0 +1,7 @@
+F:\DotNetProgramss\SQLConnectionPogram1\SQLConnectionPogram1\bin\Debug\SQLConnectionPogram1.exe.config
+F:\DotNetProgramss\SQLConnectionPogram1\SQLConnectionPogram1\bin\Debug\SQLConnectionPogram1.exe
+F:\DotNetProgramss\SQLConnectionPogram1\SQLConnectionPogram1\bin\Debug\SQLConnectionPogram1.pdb
+F:\DotNetProgramss\SQLConnectionPogram1\SQLConnectionPogram1\obj\Debug\SQLConnectionPogram1.csproj.AssemblyReference.cache
+F:\DotNetProgramss\SQLConnectionPogram1\SQLConnectionPogram1\obj\Debug\SQLConnectionPogram1.csproj.CoreCompileInputs.cache
+F:\DotNetProgramss\SQLConnectionPogram1\SQLConnectionPogram1\obj\Debug\SQLConnectionPogram1.exe
+F:\DotNetProgramss\SQLConnectionPogram1\SQLConnectionPogram1\obj\Debug\SQLConnectionPogram1.pdb
